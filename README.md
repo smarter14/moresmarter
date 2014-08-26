@@ -1,5 +1,6 @@
 moresmarter
 ===========
 
-**This is a cool project**
+
+*This is for a presentation*
 
